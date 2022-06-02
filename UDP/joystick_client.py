@@ -3,7 +3,6 @@
 import socket
 import pygame
 from pygame.locals import *
-import time
 
 M_SIZE = 32
 serv_address = ('192.168.11.45', 12345)
