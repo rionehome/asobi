@@ -42,6 +42,8 @@ server.pyはソケット通信のみのファイルです。
 今回は下の画像のコントローラー使ってま〜す  
 https://www.sony.com/articleimage/servlet/servlet.FileDownload?file=0155F000007WwGaQAK  
 
+pygameライブラリはインストールしないとダメだよ！  
+
 はい、タートルボットをいい感じにしたサーバー側でmove.py立ち上げて〜  
 
 クライアント側でコントローラーと接続して、joystick_client.py立ち上げて〜  
